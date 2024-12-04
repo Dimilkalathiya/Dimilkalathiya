@@ -8,7 +8,7 @@ I make elegantly professional Android/IOS app using flutter for a living. 🌈
 
 🧐 Interested in multiplatform frameworks. Recent focus on Infra.</br>
 🎓 Bachelor in computer application. GPA 8.48/10.0, TOP 5%.</br>
-🌱 Currently learning Kotlin Multiplatform & Math.</br>
+🌱 Currently learning atomic architecture.</br>
 💻 With 4 years' of development working experience in making aesthetically pleasing apps.</br>
 ⛵ Encouraging people for open source collaborations.</br>
 ✍🏻 I like to talk about my personal thoughts about different app architetures.</br>
