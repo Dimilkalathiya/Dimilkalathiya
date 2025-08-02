@@ -2,16 +2,16 @@
 
 <img src="https://docs.flutter.dev/assets/images/dash/Dashatars.png"/>
 
-### Making awsome apps for awsome people
+A passionate Flutter developer who began this journey with curiosity and a love for clean, intuitive design. From writing my first lines of code during my Bachelors degree to now building polished cross-platform apps
 
-I make elegantly professional Android/IOS app using flutter for a living. 🌈
+In present, I make professional Android/IOS apps using Flutter for a living. 🌈
 
-🧐 Interested in multiplatform frameworks. Recent focus on Infra.</br>
-🎓 Bachelor in computer application. GPA 8.48/10.0, TOP 5%.</br>
-🌱 Currently learning atomic architecture.</br>
+🧐 In love with Flutter framework, Passionate about building something new.</br>
+🎓 Bachelor in computer application, explored UI/UX, animation, and mobile-first development.</br>
+🌱 Currently learning shaders.</br>
 💻 With 4 years' of development working experience in making aesthetically pleasing apps.</br>
-⛵ Encouraging people for open source collaborations.</br>
-✍🏻 I like to talk about my personal thoughts about different app architetures.</br>
+⛵ I contribute to open-source projects in my free time.</br>
+✍🏻 Enjoy discussing advanced app architecture.</br>
 
 I prioritize providing full-time availability and ensuring top-notch work with a focus on user experience, design, and functionality. My expertise spans across various areas, including Mobile App Development, UI/UX Design, Agile Development, iOS, and Android.
 
